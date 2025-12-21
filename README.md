@@ -1,4 +1,5 @@
 + Custom From OrcheaDock theme (Mint Linux)
++ App theme: Whitesur
 + Uses Custom Icon Set
 + Font: SF Pro
 + Follow several instructions from [How To Make Cinnamon Beautiful](https://youtu.be/Q_Uoe5H4ORs?si=162Ma0bGCBpN7vgC)
